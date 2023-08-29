@@ -1,0 +1,7 @@
+# Files
+.gitIgnore
+*.iml
+
+# Folders
+.idea/
+/out
